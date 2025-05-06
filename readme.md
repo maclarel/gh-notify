@@ -1,6 +1,6 @@
 <div align="center">
 
-Fork of the (seemingly) unmaintained `meiji163/gh-notify` with additions that haven't been merged there.
+Fork of the largely unmaintained `meiji163/gh-notify` with additions that haven't been merged there. Everything added here will be added as a PR to the upstream.
 
 # GitHub CLI Notification Extension
 A [gh](https://github.com/cli/cli) extension to view your GitHub notifications from the command line.
@@ -15,11 +15,11 @@ Make sure you have [GitHub CLI (gh)](https://github.com/cli/cli#installation) in
 
 ```sh
 # install
-gh ext install meiji163/gh-notify
+gh ext install maclarel/gh-notify
 # upgrade
-gh ext upgrade meiji163/gh-notify
+gh ext upgrade maclarel/gh-notify
 # uninstall
-gh ext remove meiji163/gh-notify
+gh ext remove maclarel/gh-notify
 ```
 
 To use `gh notify` interactively, install these tools as well:
