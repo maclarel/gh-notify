@@ -1,5 +1,7 @@
 <div align="center">
 
+Fork of the (seemingly) unmaintained `meiji163/gh-notify` with additions that haven't been merged there.
+
 # GitHub CLI Notification Extension
 A [gh](https://github.com/cli/cli) extension to view your GitHub notifications from the command line.
 
